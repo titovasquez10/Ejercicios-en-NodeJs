@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGO_ATLAS_PW": "Realmadridcf7",
+        "JWT_KEY": "secret"
+    }
+
+}
